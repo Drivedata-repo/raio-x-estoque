@@ -1,0 +1,5 @@
+Texturas e HDRI da Poly Haven (https://polyhaven.com), licença CC0 (domínio público).
+- hangar_concrete_floor (piso)
+- rough_wood (pallets)
+- box_profile_metal_sheet (paredes)
+- empty_warehouse_01 (iluminação de ambiente)
